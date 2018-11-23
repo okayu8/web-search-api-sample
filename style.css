@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body, button {
+  font-family: "Roboto", "ヒラギノ角ゴシック Pro", "Hiragino Kaku Gothic Pro", 'メイリオ', Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+div {
+  max-width: 50%;
+  margin: 0 auto;
+}
+
+h3{
+    text-align: center;
+}
